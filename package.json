@@ -10,6 +10,8 @@
     "React",
     "components"
   ],
-  "author": "theCocoonStudio",
-  "license": "ISC"
+  "homepage": "https://github.com/theCocoonStudio/react-primitive-wheel",
+  "author": "theCocoonStudio <izzy@thecocoon.studio>",
+  "license": "ISC",
+  "repository": "https://github.com/theCocoonStudio/react-primitive-wheel"
 }
