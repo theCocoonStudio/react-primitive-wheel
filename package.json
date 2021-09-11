@@ -1,0 +1,15 @@
+{
+  "name": "react-primitive-wheel",
+  "version": "1.0.3",
+  "description": "A set of useful React components that circumvent the need to reinvent the wheel each time",
+  "main": "src/scripts/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "React",
+    "components"
+  ],
+  "author": "theCocoonStudio",
+  "license": "ISC"
+}
